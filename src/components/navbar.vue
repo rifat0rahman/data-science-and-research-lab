@@ -103,7 +103,7 @@
                             active-class="bg-gradient-to-r from-blue-600 to-purple-600 text-white hover:bg-gradient-to-r hover: from-blue-700 hover: to-purple-700">
                             ℹ️ About
                         </router-link>
-                        <a href="#contact" @click="mobileMenuOpen = false"
+                        <a href="mailto:ffa.math@just.edu.bd" @click="mobileMenuOpen = false"
                             class="mt-2 px-4 py-3 bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-xl font-semibold text-sm text-center hover:shadow-lg hover:shadow-blue-500/50 transition-all">
                             📧 Contact Us
                         </a>
