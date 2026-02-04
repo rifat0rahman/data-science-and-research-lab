@@ -6,9 +6,8 @@
                 <!-- About Section -->
                 <div>
                     <div class="flex items-center gap-3 mb-4">
-                        <div
-                            class="w-12 h-12 bg-gradient-to-br from-blue-600 to-purple-600 rounded-xl flex items-center justify-center shadow-lg">
-                            <span class="text-2xl">🔬</span>
+                        <div>
+                            <img src="../assets/logo.jpeg" alt="Leaf" class="w-15 h-15 rounded-full" />
                         </div>
                         <div>
                             <h5 class="text-lg font-black text-gray-900">Fee Faysal Ahmed</h5>
@@ -102,7 +101,7 @@
 
                 <!-- Social Links -->
                 <div class="flex gap-3">
-                    <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer"
+                    <a href="https://www.linkedin.com/checkpoint/challenge/AgEwM5cY8qVE8wAAAZwn7MJRPn3_kgD3OPSo-tcYLTjThvkIf7Ssf7VwbKEhdcW7yEZqf9C1Ddp8lO08FjBO9zgTQbVOOQ?ut=2BidJoCOUEbY81" target="_blank" rel="noopener noreferrer"
                         class="w-10 h-10 bg-gray-100 hover:bg-blue-100 rounded-full flex items-center justify-center transition-all transform hover:scale-110 group"
                         aria-label="LinkedIn">
                         <svg class="w-5 h-5 text-gray-600 group-hover:text-blue-700 transition-colors"

@@ -162,7 +162,7 @@
                             class="absolute -inset-4 bg-gradient-to-r from-blue-200 to-purple-200 rounded-3xl blur-2xl opacity-30">
                         </div>
                         <div class="relative rounded-3xl overflow-hidden shadow-2xl">
-                            <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1600&auto=format&fit=crop"
+                            <img src="../assets/program.avif"
                                 alt="Lab visualization" class="w-full h-[500px] object-cover" />
                         </div>
 
@@ -284,7 +284,7 @@
                             <div
                                 class="absolute -inset-2 bg-gradient-to-r from-blue-400 to-purple-500 rounded-full blur-lg opacity-50 group-hover:opacity-75 transition-opacity">
                             </div>
-                            <img src="https://static.just.edu.bd/images/public/teacher/1643101826574_-1.jpeg"
+                            <img src="../assets/instructor.jpeg"
                                 alt="Fee Faysal Ahmed"
                                 class="relative w-48 h-48 rounded-full object-cover border-4 border-white shadow-2xl" />
                             <div
@@ -321,19 +321,19 @@ const slides = [
     {
         title: 'Data-driven discovery in systems biology',
         subtitle: 'Predictive models, experimental design, and open science to accelerate research.',
-        image: 'https://images.unsplash.com/photo-1532094349884-543bc11b234d?q=80&w=1600&auto=format&fit=crop',
+        image: `${window.location.origin}/src/assets/slider1.avif`,
         gradient: 'from-blue-900/80 via-purple-900/70 to-transparent'
     },
     {
         title: 'Interpretable machine learning for biology',
         subtitle: 'Methods that reveal mechanisms and suggest experiments.',
-        image: 'https://images.unsplash.com/photo-1576086213369-97a306d36557?q=80&w=1600&auto=format&fit=crop',
+        image: `${window.location.origin}/src/assets/slider2.avif`,
         gradient: 'from-emerald-900/80 via-teal-900/70 to-transparent'
     },
     {
         title: 'Collaborative projects and open tools',
         subtitle: 'Reproducible pipelines, datasets, and community resources.',
-        image: 'https://images.unsplash.com/photo-1505904267569-44f7a6fc18c5?q=80&w=1600&auto=format&fit=crop',
+        image: `${window.location.origin}/src/assets/slider3.png`,
         gradient: 'from-indigo-900/80 via-blue-900/70 to-transparent'
     }
 ];

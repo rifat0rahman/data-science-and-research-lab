@@ -5,9 +5,8 @@
                 <!-- Logo/Brand -->
                 <div class="flex-shrink-0">
                     <router-link to="/" class="flex items-center gap-3 group">
-                        <div
-                            class="w-12 h-12 bg-gradient-to-br from-blue-600 to-purple-600 rounded-xl flex items-center justify-center transform group-hover:scale-110 transition-transform shadow-lg">
-                            <span class="text-2xl">🔬</span>
+                        <div>
+                            <img src="../assets/logo.jpeg" alt="Leaf" class="w-15 h-15 rounded-full" />
                         </div>
                         <div>
                             <h1 class="text-xl font-black text-gray-900 leading-tight">
@@ -47,7 +46,7 @@
                     </router-link>
 
                     <!-- CTA Button -->
-                    <a href="#contact"
+                    <a href="mailto:ffa.math@just.edu.bd"
                         class="ml-4 px-6 py-2.5 bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-full font-semibold text-sm hover:shadow-xl hover:shadow-blue-500/50 transform hover:scale-105 transition-all">
                         Contact Us
                     </a>
